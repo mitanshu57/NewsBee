@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsBee/static/css/main.31d6cfe0.css",
+    "main.js": "/NewsBee/static/js/main.88f62639.js",
+    "static/js/787.6643f1c0.chunk.js": "/NewsBee/static/js/787.6643f1c0.chunk.js",
+    "static/media/loading.gif": "/NewsBee/static/media/loading.b7bedbae5aebf23e813f.gif",
+    "index.html": "/NewsBee/index.html",
+    "main.88f62639.js.map": "/NewsBee/static/js/main.88f62639.js.map",
+    "787.6643f1c0.chunk.js.map": "/NewsBee/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.88f62639.js"
+  ]
+}
